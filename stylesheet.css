@@ -1,0 +1,38 @@
+img {height: 557px
+}
+
+.description{font-size: 20px
+}
+
+#cook-time {font-weight: bold;
+}
+ul li {list-style: square;
+    background-color: turquoise;
+    
+}
+
+ul {
+    border: 1px solid black;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 320px;
+    border-radius: 5px
+    
+    
+  }
+
+ol li {
+    font-size: 30px;
+
+}
+
+ol li span {
+    font-size: 15px;
+}
+
+
+p.time {color: pink;
+}
+.external-link {color: SeaGreen;
+}
+h1, h2, p, li {font-family: Helvetica;}
